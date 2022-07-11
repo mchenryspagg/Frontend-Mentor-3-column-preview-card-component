@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-I have learnt how to build a responsive site for different screen sizes. I have also learnt how to use the flexbox layout, use google fonts for styling and also build a custom website with images.
+I have learnt how to build a responsive site for different screen sizes. I have also learnt how to use the flexbox layout, use google fonts for styling and also build a custom website with HTML and CSS.
 
 
 ### Continued development
