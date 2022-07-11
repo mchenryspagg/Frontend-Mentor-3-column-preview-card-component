@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click here for solution URL](https://github.com/mchenryspagg/Frontend-Mentor-3-column-preview-card-component)
-- Live Site URL: [Click here for live site URL](https://github.com/ here](https://mchenryspagg.github.io/Frontend-Mentor-3-column-preview-card-component/)
+- Live Site URL: [Click here for live site URL](https://mchenryspagg.github.io/Frontend-Mentor-3-column-preview-card-component/)
 
 
 ### Built with
